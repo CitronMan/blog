@@ -121,6 +121,21 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 <font color=red size=2 face="黑体"><\font color=red size=2 face="黑体"\></font>
 换行：`<br>`
 
+# 进阶语法
+* 1.设置图片大小，居中
+方法一：使用支持图片大小更改操作的 Mou 编辑器
+使用如下语法
+`![](./pic/pic1_50.png =100x100)`
+注意: =前有个空格，可以只写宽度。
+方法二：嵌入HTML代码
+使用img标签
+`<img src="./xxx.png" width = "300" height = "200" alt="图片名称" align=center />`
+附：如果需要居中的话只要在外面包围div标签即可
+``` bash
+<div  align="center">    
+...
+</div>
+```
 
 
 # reference
@@ -130,4 +145,5 @@ Zippera blog : http://wiki.jikexueyuan.com/project/hexo-document/
 老蒋部落     ： http://www.itbulu.com/centos-git-nodejs-hexo.html
 主题Yilia    : http://litten.github.io/2014/08/31/hexo-theme-yilia/
 Themes: https://github.com/hexojs/hexo/wiki/Themes#
+知乎郑宇：https://www.zhihu.com/question/23378396
 
