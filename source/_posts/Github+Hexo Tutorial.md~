@@ -1,5 +1,7 @@
 ---
 title: Github+Hexo Tutorial
+date: 2016-08-21 22:51:37
+tags: work
 ---
 ![](/images/markdown_cover.jpg)
 # Environment
@@ -130,7 +132,7 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 方法二：嵌入HTML代码
 使用img标签
 `<img src="./xxx.png" width = "300" height = "200" alt="图片名称" align=center />`
-附：如果需要居中的话只要在外面包围div标签即可,但要注意在前后各留一行空白，否则会破坏格式
+附：如果需要居中的话只要在外面包围div标签即可,但要注意在前后各**留一行空白**，否则会破坏格式
 ``` bash
 <div  align="center">    
 ...

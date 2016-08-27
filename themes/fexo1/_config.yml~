@@ -7,7 +7,7 @@ url: http://www.citronman.github.io
 avatar: /images/me.jpg
 
 # Set favicon
-favicon: /images/favor.jpg
+favicon: /images/favicon.jpg
 
 # For seo
 keywords: forsigner,前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
@@ -31,9 +31,9 @@ page_nav:
   - name: 博客
     url: /archives/
     target_blank: false # 不在新页面打开
-  - name: 分类
-    url: /category/
-    target_blank: false
+#  - name: 分类
+#    url: /category/
+#    target_blank: false
   - name: 标签
     url: /tag/
     target_blank: false
@@ -67,13 +67,13 @@ search_slogan:
 
 link_slogan:
   isShow: true # true|fase
-  text: 交换友链可以邮件 forsigner@gmail.com
+  text: 交换友链可以邮件 liuxg16@tsinghua.mails.edu.cn
 
 # set backtop show or hide
 backtop:
   home: false
   archive: false
-  category: true
+#  category: true
   tag: true
   post: true
   link: false
@@ -101,7 +101,7 @@ post:
 # =========================================================
 
 # Custom CSS style
-personal_style: /css/personal.css
+# personal_style: /css/personal.css
 
 home_background_scheme: light # dark、light
 
@@ -163,30 +163,19 @@ about:
     text_value: Beijing
 
 link:
-  - name: 织网
-    info: 身体和灵魂，总有一个在路上
-    url: http://zheng-ji.info/
-    avatar: https://avatars3.githubusercontent.com/u/1414745?v=3&s=100
-  - name: Dongyado
-    info: 生命不止，折腾不息
-    url: http://dongyado.com/
-    avatar: https://avatars0.githubusercontent.com/u/6274940?v=3&s=100
-  - name: OrangeCoder
-    info: android ffmpeg nodejs gradle
-    url: http://orangecoder.com/
-    avatar: https://avatars0.githubusercontent.com/u/2263785?v=3&s=100
-  - name: EverET
-    info: 好记性不如烂笔头
-    url: http://everet.org/about-me/
-    avatar: https://avatars1.githubusercontent.com/u/1559563?v=3&s=100
-  - name: 题叶
-    info: FP, GUI, Writing
-    url: http://tiye.me/
-    avatar: https://avatars2.githubusercontent.com/u/449224?v=3&s=100
-  - name: idisfkj
-    info: Android成长分享
-    url: http://idisfkj.github.io
-    avatar: https://avatars1.githubusercontent.com/u/8677862?v=3&s=100
+  - name: 清水汪汪
+    info: 如果青春是一段代码，我愿用一生来续写！
+    url: https://zhs.space/
+    avatar: https://zhs.space/static/favicon.ico
+  - name: forsigner
+    info: Find the bug of the world
+    url: http://www.forsigner.com/
+    avatar: http://www.forsigner.com/images/avatar.jpg
+  - name: CitronMan
+    info: Three Pound Universe
+    url: https://citronman.github.io/
+    avatar: https://citronman.github.io/images/me.jpg
+  
 
 project:
   - type: personal

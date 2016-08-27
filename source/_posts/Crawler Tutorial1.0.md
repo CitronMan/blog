@@ -1,7 +1,7 @@
 ---
 title: Crawler Tutorial1.0
 date: 2016-08-20 17:21:20
-tags:
+tags: work
 ---
 <div align="center">
 <img src="/images/zhizhuwang.jpg" width = "500" height = "200" alt="图片名称" align=center />

@@ -1,5 +1,7 @@
 ---
 title: Github+Hexo Tutorial
+date: 2016-07-21 22:51:37
+tags: work
 ---
 ![](/images/markdown_cover.jpg)
 # Environment

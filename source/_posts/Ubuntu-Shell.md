@@ -1,7 +1,7 @@
 ---
 title: Ubuntu Shell
 date: 2016-08-22 09:58:41
-tags: Ubuntu
+tags: work
 ---
 
 * pwd:查看当前目录

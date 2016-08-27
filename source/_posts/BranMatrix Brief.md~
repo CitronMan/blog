@@ -1,7 +1,7 @@
 ---
 title: BranMatrix Brief
 date: 2016-08-21 22:51:37
-tags:
+tags: work
 ---
 
 <div align="center">
@@ -12,9 +12,6 @@ tags:
 　　随着计算机机器学习领域的突飞猛进，市场对人工智能的热情也越来越高，产出一个灵活性高、扩展性强的机器学习框架是相关从业者的心声。
 　　开源项目MXNET是由百度IDL深度学习实验室李沐、卡耐基梅隆大学陈天奇组织开发的一个深度学习框架，基于CXXNET, 用mshadow来做具体的数据计算，C++保证运行效率的轻量级开源平台。 在其它各种开源平台中综合性能突出，现在也在飞速发展中。
 　　而我们开发的BrainMatrix项目基于MXNET，不仅是深度学习，而且集成机器学习算法都适用的scala语言计算平台。
-<div>
-<img src="/images/BrainMatrix/BrainMatrix.jpg" width = "500" height = "200" alt="图片名称" align="center" />
-</div>
 
 # MXNET特点
 1、轻量级调度引擎。

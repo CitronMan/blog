@@ -1,7 +1,7 @@
 ---
 title: Ubuntu Shell
 date: 2016-08-22 09:58:41
-tags: Ubuntu
+tags: work
 ---
 
 * pwd:查看当前目录
@@ -9,4 +9,5 @@ tags: Ubuntu
 * lscpu:查看cpu
 * htop: 动态监控进程
 * nvidia-smi: 查看gpu
-* 
+* find . -name name*: 查找包含name的文件名
+
