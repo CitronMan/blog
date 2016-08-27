@@ -22,8 +22,6 @@ w3school/
 ```
 其中scrapy.cfg目的配置文件。主要改写的是w3school中的三个文件以及其中spiders中需要编写的爬虫。
 
-一个一个来。
-
 * 在items.py中定义Item容器。
 也就是编写items.py内容。所谓Item容器就是将在网页中获取的数据结构化保存的数据结构，类似于Python中字典。下面为items.py中代码。
 ``` bash

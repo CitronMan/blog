@@ -130,13 +130,14 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 方法二：嵌入HTML代码
 使用img标签
 `<img src="./xxx.png" width = "300" height = "200" alt="图片名称" align=center />`
-附：如果需要居中的话只要在外面包围div标签即可
+附：如果需要居中的话只要在外面包围div标签即可,但要注意在前后各留一行空白，否则会破坏格式
 ``` bash
 <div  align="center">    
 ...
 </div>
 ```
-
+* 2.缩进控制
+切换到全角字符，敲两下空格。
 
 # reference
 Hexo官网资料 ： https://hexo.io/docs/
@@ -145,4 +146,5 @@ Zippera blog : http://wiki.jikexueyuan.com/project/hexo-document/
 老蒋部落     ： http://www.itbulu.com/centos-git-nodejs-hexo.html
 主题Yilia    : http://litten.github.io/2014/08/31/hexo-theme-yilia/
 Themes: https://github.com/hexojs/hexo/wiki/Themes#
+知乎郑宇：https://www.zhihu.com/question/23378396
 
