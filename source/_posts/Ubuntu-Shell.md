@@ -10,4 +10,5 @@ tags: work
 * htop: 动态监控进程
 * nvidia-smi: 查看gpu
 * find . -name name*: 查找包含name的文件名
+* ssh-keygen:生成ssh 公钥
 

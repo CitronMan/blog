@@ -1,8 +1,9 @@
 ---
 title: Github+Hexo Tutorial
-date: 2016-08-21 22:51:37
+date: 2016-07-21 22:51:37
 tags: work
 ---
+
 ![](/images/markdown_cover.jpg)
 # Environment
 * Ubuntu 14.04 LTS
@@ -141,6 +142,18 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 * 2.缩进控制
 切换到全角字符，敲两下空格。
 
+* 3.加入图标
+<i class="icon-list"></i> 目录<i class="icon-list"></i>：快速导航当前文稿的目录结构以跳转到感兴趣的段落
+<i class="icon-info"></i> 视图：互换左边编辑区和右边预览区的位置
+<i class="icon-user"></i> 主题：内置了黑白两种模式的主题，试试 **黑色主题**，超炫！
+
+```html
+<i class="icon-list"></i>
+```
+
+* 4.复选框
+**hexo 不支持！！！！**
+
 # reference
 Hexo官网资料 ： https://hexo.io/docs/
 Hexo中文网站 ： http://wiki.jikexueyuan.com/project/hexo-document/
@@ -149,4 +162,5 @@ Zippera blog : http://wiki.jikexueyuan.com/project/hexo-document/
 主题Yilia    : http://litten.github.io/2014/08/31/hexo-theme-yilia/
 Themes: https://github.com/hexojs/hexo/wiki/Themes#
 知乎郑宇：https://www.zhihu.com/question/23378396
+在线markdown编辑器：https://www.zybuluo.com/mdeditor
 
